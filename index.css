@@ -17,6 +17,7 @@ body {
     border-radius: 15px;
     height: 60vh;
     width: 25%;
+    min-width: 300px;
     max-height: 300px;
     padding: 10px;
     margin-left: auto;
